@@ -19,8 +19,8 @@
     <material name="MatGlass" reflectance="1" specular=".4" emission=".25" rgba=".6 .6 .65 .1"/>
     <material name="MatWindow" reflectance="0" texture="texwindow" texrepeat="1 1" texuniform="true" rgba="1 0 0 1"/>
 
-    <mesh name="wall" file="../scene_sim/meshes/highwindow.stl" scale="1 1 1"/>
-    <mesh name="skyline" file="../scene_sim/meshes/skyline.stl" scale="2.2 2.2 1"/>
+    <mesh name="wall" file="../../../../simhive/scene_sim/meshes/highwindow.stl" scale="1 1 1"/>
+    <mesh name="skyline" file="../../../../simhive/scene_sim/meshes/skyline.stl" scale="2.2 2.2 1"/>
     <mesh name="robohive" file="../scene_sim/meshes/robohive_text.stl"/>
     <mesh name="robohive_half" file="../scene_sim/meshes/robohive_logohalf.stl" scale="4 4 4"/>
   </asset>
